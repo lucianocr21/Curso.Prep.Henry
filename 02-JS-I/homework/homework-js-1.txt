@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Es un elemento que emplea la forma de almacenar el valor de algo para ser usado mas a delante.
+
+Strings
+Es cualquier texto encerrado entre comillas.
+
+Funciones (argumentos, return)
+Una funcion es proceso independiente que precisa mediante parametros, una entrada, un argumento como proceso y una respuesta como retorno de salida.
+
+Declaraciones if
+Con el comando if podremos verificar mediante un operador de control de flujo y de comparacion. El flujo de control ''control flow'' permite a nuestra funcion verificar si algo es verdadero
+Valores booleanos (true, false)
