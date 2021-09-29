@@ -1,0 +1,13 @@
+Instrucciones
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+Desde la carpeta Prep en la carpeta donde clonaste el repo, ingresa el comando npm test JSII.test.js para correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones para hacer pasar los tests en el archivo homework.js.
+
+Definicion de conceptos:
+
+For:
+El bucle for:
+Se utiliza cuando queremos repetir un numero finito de veces de un conjunto de instrucciones de veces
+&&
+El primer operador lógico que veremos es el operador "Y" ("AND"). Está escrito con dos símbolos (&&). Esto evaluará ambas expresiones y devolverá verdadero si AMBAS expresiones son true. Si uno (o ambos) de ellos es falso, este operador devolverá false:
